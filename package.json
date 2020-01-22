@@ -26,9 +26,9 @@
   "homepage": "https://github.com/mooyoul/tslint-actions#readme",
   "devDependencies": {
     "@semantic-release/changelog": "3.0.6",
-    "@semantic-release/commit-analyzer": "6.3.3",
-    "@semantic-release/exec": "3.3.8",
-    "@semantic-release/git": "7.0.18",
+    "@semantic-release/commit-analyzer": "7.0.0",
+    "@semantic-release/exec": "4.0.0",
+    "@semantic-release/git": "8.0.0",
     "@semantic-release/release-notes-generator": "7.3.5",
     "@types/common-tags": "1.8.0",
     "@types/glob": "7.1.1",
@@ -37,7 +37,7 @@
     "@vingle/tslint-preset": "1.0.0",
     "chai": "4.2.0",
     "husky": "3.1.0",
-    "semantic-release": "15.14.0"
+    "semantic-release": "16.0.3"
   },
   "dependencies": {
     "@actions/core": "^1.1.1",
